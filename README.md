@@ -22,7 +22,7 @@ Languages and Tools:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" height="40" style="vertical-align:top; margin:1px">
-  <img src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" alt="C#" height="40" style="vertical-align:top; margin:1px">
+  <img src="https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png" alt="C#" height="40" style="vertical-align:top; margin:1px">
   <img src="https://previews.123rf.com/images/jovanas/jovanas1612/jovanas161200791/68255878-sql-icon.jpg" alt="SQL" height="40" style="vertical-align:top; margin:4px">
   <img src="https://p.kindpng.com/picc/s/765-7652239_react-native-svg-logo-hd-png-download.png" alt="react native" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.iconscout.com/icon/free/png-256/vuejs-1175052.png" alt="Vue.js" height="40" style="vertical-align:top; margin:4px">
