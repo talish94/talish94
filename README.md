@@ -38,8 +38,7 @@ Here are some ideas to get you started:
   
 <h2> 🏆 My Github Stats: <h2/>
  <p>
-![](https://visitor-badge.laobi.icu/badge?page_id=talish94.talish94) 
-         
+![](https://visitor-badge.laobi.icu/badge?page_id=talish94.talish94)       
 [![Github](https://img.shields.io/github/followers/talish94?label=Follow&style=social)](https://github.com/talish94)
 </p>
 
