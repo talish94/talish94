@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   
 <h2> 🤝🏻  Connect with Me <h2/>
 <p align="center">
-<a href="https://www.linkedin.com/in/tali-schvartz/" rel="nofollow"><img src="https://ibb.co/YZ1hzz6" data-canonical-src="https://img.shields.io/badge/-Cameron%20Thompson-0077B5?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;"></a>
+<!-- <a href="https://www.linkedin.com/in/tali-schvartz/" rel="nofollow"><img src="https://ibb.co/YZ1hzz6" data-canonical-src="https://img.shields.io/badge/-Cameron%20Thompson-0077B5?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;"></a> -->
        
-<a href="mailto:talischvartz@gamil.com"><img src="https://www.linkpicture.com/q/mail_6.png" data-canonical-src="https://img.shields.io/badge/-camthomp96@gamil.com-D14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white" style="max-width:100%;"></a>
+<a href="mailto:talischvartz@gamil.com"><img src="https://www.linkpicture.com/q/mail_6.png" style="max-width:100%;"></a>
 </p>
