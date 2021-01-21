@@ -35,7 +35,8 @@ Here are some ideas to get you started:
   <img src="https://cdn.iconscout.com/icon/free/png-256/vuejs-1175052.png" alt="Vue.js" height="40" style="vertical-align:top; margin:4px">
   <img src="https://previews.123rf.com/images/jovanas/jovanas1612/jovanas161200791/68255878-sql-icon.jpg" alt="SQL" height="50" style="vertical-align:top; margin:4px">
   </p>   
-  
+  <br />  
+
 <h2> 🏆 My Github Stats: <h2/>
         
 ![](https://visitor-badge.laobi.icu/badge?page_id=talish94.talish94) 
