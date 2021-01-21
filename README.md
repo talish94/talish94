@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<div>
 <!--
 **talish94/talish94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +21,11 @@ Here are some ideas to get you started:
          <li> 💬 Ask me about anything </li>
  </ul>
 
-                  
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/62599d2d7ea728ba2571baf5fb1e843512216345993948dc4657172e57bb00c2/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d43686172616c616d626f73496f616e6e6f752e43686172616c616d626f73496f616e6e6f75"><img src="https://camo.githubusercontent.com/62599d2d7ea728ba2571baf5fb1e843512216345993948dc4657172e57bb00c2/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d43686172616c616d626f73496f616e6e6f752e43686172616c616d626f73496f616e6e6f75" alt="" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou" style="max-width:100%;"></a>
+
+<img src="https://camo.githubusercontent.com/b1a5eb3bf0784092870685d3150467e876a20ca439a426370916da4f1535323d/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f43686172616c616d626f73496f616e6e6f753f6c6162656c3d466f6c6c6f77657273266c6f676f3d476974687562" alt="Github" data-canonical-src="https://img.shields.io/github/followers/CharalambosIoannou?label=Followers&amp;logo=Github" style="max-width:100%;">
+
+ <br />             
 <h2> 🧰 Languages and Tools: </h2>
 <p align="center">
 <img src="https://content.techgig.com/thumb/msid-69596495,width-860,resizemode-4/5-tips-for-Python-Programmers-to-help-them-improve.jpg?50999" alt="Python" height="40" style="vertical-align:top; margin:4px">
@@ -36,6 +40,6 @@ Here are some ideas to get you started:
   <img src="https://previews.123rf.com/images/jovanas/jovanas1612/jovanas161200791/68255878-sql-icon.jpg" alt="SQL" height="50" style="vertical-align:top; margin:4px">
   </p>   
   
-  
+</div
   
   
