@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   
 <h2> 🏆 My Github Stats: <h2/>
         
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+![](https://visitor-badge.laobi.icu/badge?page_id=talish94.talish94)
 
          
          
