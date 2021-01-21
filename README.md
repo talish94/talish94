@@ -25,7 +25,7 @@ Languages and Tools:
   <img src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" alt="C#" height="40" style="vertical-align:top; margin:4px">
   <img src="https://previews.123rf.com/images/jovanas/jovanas1612/jovanas161200791/68255878-sql-icon.jpg" alt="SQL" height="40" style="vertical-align:top; margin:4px">
   <img src="https://miro.medium.com/max/1024/1*xDi2csEAWxu95IEkaNdFUQ.png" alt="react native" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://www.clientresourcesinc.com/wp-content/uploads/2018/06/vuejs_logo.png" alt="Vue.js" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/vuejs-1175052.png" alt="Vue.js" height="40" style="vertical-align:top; margin:4px">
   </p>   
   
   
