@@ -49,5 +49,5 @@ Here are some ideas to get you started:
 <h2> 🤝🏻  Connect with Me <h2/>
 <p align="center">
 <a href="https://www.linkedin.com/in/tali-schvartz/" rel="nofollow"><img src="https://ibb.co/YZ1hzz6" data-canonical-src="https://img.shields.io/badge/-Cameron%20Thompson-0077B5?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;"></a>
-<a href="mailto:talischvartz@gamil.com"><img src="https://camo.githubusercontent.com/67fa50260c9d6ea4d981af3179cda6af85fcb66575b10ac7d36919bfecfccbca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d63616d74686f6d7039364067616d696c2e636f6d2d4431343833363f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-camthomp96@gamil.com-D14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white" style="max-width:100%;"></a>
+<a href="mailto:talischvartz@gamil.com"><img src="https://www.linkpicture.com/view.php?img=LPic6009cafa8674c1400263629" data-canonical-src="https://img.shields.io/badge/-camthomp96@gamil.com-D14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white" style="max-width:100%;"></a>
 </p>
