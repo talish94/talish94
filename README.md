@@ -48,7 +48,6 @@ Here are some ideas to get you started:
   
 <h2> 🤝🏻  Connect with Me <h2/>
 <p align="center">
-<a href="https://www.linkedin.com/in/tali-schvartz/" rel="nofollow"><img src="https://www.linkpicture.com/q/LI_1.png" style="max-width:60%;"></a>  
-         
-<a href="mailto:talischvartz@gamil.com"><img src="https://www.linkpicture.com/q/mail_7.png" style="max-width:60%;"></a>
+<a href="https://www.linkedin.com/in/tali-schvartz/" rel="nofollow"><img src="https://www.linkpicture.com/q/LI_1.png" style="max-width:50%;"></a>  
+<a href="mailto:talischvartz@gamil.com"><img src="https://www.linkpicture.com/q/mail_7.png" style="max-width:50%;"></a>
 </p>
