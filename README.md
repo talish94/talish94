@@ -52,4 +52,8 @@ Here are some ideas to get you started:
 
 
   
+  🤝🏻  Connect with Me
+  <a href="https://www.linkedin.com/in/tali-schvartz/" rel="nofollow"><img src="https://camo.githubusercontent.com/3832e781db984a454384baf43c31fb3468ffddcebe0227e0bfc27c960754d0db/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d43616d65726f6e25323054686f6d70736f6e2d3030373742353f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Cameron%20Thompson-0077B5?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;"></a>
+  
+<a href="mailto:talischvartz@gamil.com"><img src="https://camo.githubusercontent.com/67fa50260c9d6ea4d981af3179cda6af85fcb66575b10ac7d36919bfecfccbca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d63616d74686f6d7039364067616d696c2e636f6d2d4431343833363f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-camthomp96@gamil.com-D14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white" style="max-width:100%;"></a>
   
