@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 <br />   
 <br />  
 
-
- <br />             
 <h2> 🧰 Languages and Tools: </h2>
 <p align="center">
 <img src="https://content.techgig.com/thumb/msid-69596495,width-860,resizemode-4/5-tips-for-Python-Programmers-to-help-them-improve.jpg?50999" alt="Python" height="40" style="vertical-align:top; margin:4px">
@@ -40,16 +38,12 @@ Here are some ideas to get you started:
   
 <h2> 🏆 My Github Stats: <h2/>
         
-![](https://visitor-badge.laobi.icu/badge?page_id=talish94.talish94)
-
-         
+![](https://visitor-badge.laobi.icu/badge?page_id=talish94.talish94) 
          
 [![Github](https://img.shields.io/github/followers/talish94?label=Follow&style=social)](https://github.com/talish94)
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talish94&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
-
 
   
 <h2> 🤝🏻  Connect with Me <h2/>
