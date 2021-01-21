@@ -37,10 +37,9 @@ Here are some ideas to get you started:
   </p>   
   
 <h2> 🏆 My Github Stats: <h2/>
- <p>
 ![](https://visitor-badge.laobi.icu/badge?page_id=talish94.talish94)       
 [![Github](https://img.shields.io/github/followers/talish94?label=Follow&style=social)](https://github.com/talish94)
-</p>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talish94&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
