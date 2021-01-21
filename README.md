@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love crossfit 🏋🏼‍♀️ and cooking 😋 
 -->
 
+
+🤔 I’m looking for a software developer position 
 ⚡ Fun fact: I love crossfit 🏋🏼‍♀️ and cooking 😋 
