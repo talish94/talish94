@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love crossfit 🏋🏼‍♀️ and cooking 😋 
 -->
+
+⚡ Fun fact: I love crossfit 🏋🏼‍♀️ and cooking 😋 
