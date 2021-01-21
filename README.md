@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 It's nice to meet you
 
 <!--
 **talish94/talish94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,5 +49,5 @@ Here are some ideas to get you started:
 <h2> 🤝🏻  Connect with Me <h2/>
 <p align="center">
 <a href="https://www.linkedin.com/in/tali-schvartz/" rel="nofollow"><img src="https://www.linkpicture.com/q/LI_1.png" style="max-width:50%;"></a>  
-<a href="mailto:talischvartz@gamil.com"><img src="https://www.linkpicture.com/q/mail_7.png" style="max-width:50%;"></a>
+<a href="mailto:talischvartz@gamil.com"><img src="https://www.linkpicture.com/q/mail_8.png" style="max-width:50%;"></a>
 </p>
