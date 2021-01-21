@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div>
+
 <!--
 **talish94/talish94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,6 +40,6 @@ Here are some ideas to get you started:
   <img src="https://previews.123rf.com/images/jovanas/jovanas1612/jovanas161200791/68255878-sql-icon.jpg" alt="SQL" height="50" style="vertical-align:top; margin:4px">
   </p>   
   
-</div
+
   
   
