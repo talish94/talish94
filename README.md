@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 <ul>
          <li> 🤔 I’m looking for a software developer position </li>
+         <li> 🎓 I'm a B.Sc Software and Information Systems Engineering student at the Ben-Gurion University </li>
          <li>⚡ Fun fact: I love crossfit 🏋🏼‍♀️ and cooking 😋  </li>
          <li> 💬 Ask me about anything </li>
  </ul>
@@ -38,5 +39,3 @@ Here are some ideas to get you started:
   
   
   
-🤔 I’m looking for a software developer position 
-⚡ Fun fact: I love crossfit 🏋🏼‍♀️ and cooking 😋 
