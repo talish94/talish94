@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love crossfit 🏋🏼‍♀️ and cooking 😋 
 -->
 <ul>
-         <li>🔭 I’m currently working on ... </li>
          <li> 🤔 I’m looking for a software developer position </li>
+         <li>⚡ Fun fact: I love crossfit 🏋🏼‍♀️ and cooking 😋  </li>
+         <li> 💬 Ask me about anything </li>
+ </ul>
+
                   
-Languages and Tools:
+<h2> 🧰 Languages and Tools: </h2>
 <p align="center">
 <img src="https://content.techgig.com/thumb/msid-69596495,width-860,resizemode-4/5-tips-for-Python-Programmers-to-help-them-improve.jpg?50999" alt="Python" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
