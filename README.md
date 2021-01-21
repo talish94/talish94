@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love crossfit 🏋🏼‍♀️ and cooking 😋 
 -->
-
-         <br />
+<ul>
+         <li>🔭 I’m currently working on ... </li>
+         <li> 🤔 I’m looking for a software developer position </li>
+                  
 Languages and Tools:
 <p align="center">
 <img src="https://content.techgig.com/thumb/msid-69596495,width-860,resizemode-4/5-tips-for-Python-Programmers-to-help-them-improve.jpg?50999" alt="Python" height="40" style="vertical-align:top; margin:4px">
@@ -33,6 +35,5 @@ Languages and Tools:
   
   
   
-         <br />
 🤔 I’m looking for a software developer position 
 ⚡ Fun fact: I love crossfit 🏋🏼‍♀️ and cooking 😋 
