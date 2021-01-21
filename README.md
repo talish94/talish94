@@ -48,14 +48,13 @@ Here are some ideas to get you started:
   <img src="https://previews.123rf.com/images/jovanas/jovanas1612/jovanas161200791/68255878-sql-icon.jpg" alt="SQL" height="50" style="vertical-align:top; margin:4px">
   </p>   
   
-
-  
- 
-         <h2> 🏆 My Github Stats: <h2/>
-                    ![](https://visitor-badge.laobi.icu/badge?page_id=talish94.talish94)
+<h2> 🏆 My Github Stats: <h2/>
+![](https://visitor-badge.laobi.icu/badge?page_id=talish94.talish94)
 [![Github](https://img.shields.io/github/followers/talish94?label=Follow&style=social)](https://github.com/talish94)
 
+<div>
 <br/>
+<div/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talish94&theme=tokyonight)
 
 <!--
