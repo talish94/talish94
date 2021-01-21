@@ -4,19 +4,19 @@
 **talish94/talish94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ..
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-
 -->
+
 <ul>
-         <li> 🤔 I’m looking for a software developer position </li>
+         <br/>
          <li> 🎓 I'm a B.Sc Software and Information Systems Engineering student at the Ben-Gurion University </li>
-         <li>⚡ Fun fact: I love crossfit 🏋🏼‍♀️ and cooking 😋  </li>
+         <li> 🤔 I’m looking for a software developer position </li>
          <li> 💬 Ask me about anything </li>
+         <li>⚡ Fun fact: I love crossfit 🏋🏼‍♀️ and cooking 😋  </li>
  </ul>
  
 <br />   
